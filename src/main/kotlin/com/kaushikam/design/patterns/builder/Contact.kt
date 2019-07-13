@@ -1,4 +1,4 @@
-package com.kaushikam.design.patterns
+package com.kaushikam.design.patterns.builder
 
 data class Contact (
     val firstName: String?,
